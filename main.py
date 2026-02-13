@@ -137,14 +137,6 @@ def run_activity():
     print("Response:", creative_response)
 
 
-    print("\n--- STEP 5: REFLECTION QUESTIONS ---")
-    print("1. How did the response change as examples were added?")
-    print("2. Which method gave the most reliable result?")
-    print("3. What types of tasks require few-shot learning?")
-    print("4. Where can one-shot prompts be used in real-world systems?")
-
-
-
-
 if __name__ == "__main__":
     run_activity()
+
